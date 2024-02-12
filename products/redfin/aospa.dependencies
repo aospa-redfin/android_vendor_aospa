@@ -1,0 +1,80 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/device_google_redfin,
+        "target_path":  "device/google/redfin",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/device_google_redbull,
+        "target_path":  "device/google/redbull",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/device_google_redbull-kernel",
+        "target_path":  "device/google/redbull-kernel",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/device_google_redbull-sepolicy",
+        "target_path":  "device/google/redbull-sepolicy",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/device_google_redfin-sepolicy",
+        "target_path":  "device/google/redfin-sepolicy",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "gitlab",
+        "repository":   "aospa-redfin/vendor_google_redfin",
+        "target_path":  "vendor/google_devices",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "aospa-redfin/hardware_qcom_display_bootctrl",
+        "target_path":  "hardware/qcom/bootctrl",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "aospa-redfin/hardware_qcom-caf_display_bootctrl",
+        "target_path":  "hardware/qcom-caf/bootctrl",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-redfin/hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "aospa-redfin/android_hardware_google_pixel",
+        "target_path":  "hardware/google/pixel",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "aospa-redfin/android_hardware_google_pixel-sepolicy",
+        "target_path":  "hardware/google/pixel-sepolicy",
+        "revision":     "uvite"
+    }
+]
