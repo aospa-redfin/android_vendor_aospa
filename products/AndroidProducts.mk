@@ -31,7 +31,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/lmi/aospa_lmi.mk \
     $(LOCAL_DIR)/lynx/aospa_lynx.mk \
     $(LOCAL_DIR)/marble/aospa_marble.mk \
-    $(LOCAL_DIR)/mi439/aospa_mi439.mk \
+    $(LOCAL_DIR)/mi439_419/aospa_mi439_419.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
@@ -47,6 +47,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/panther/aospa_panther.mk \
     $(LOCAL_DIR)/phoenix/aospa_phoenix.mk \
     $(LOCAL_DIR)/phone1/aospa_phone1.mk \
+    $(LOCAL_DIR)/phone2/aospa_phone2.mk \
     $(LOCAL_DIR)/porsche/aospa_porsche.mk \
     $(LOCAL_DIR)/psyche/aospa_psyche.mk \
     $(LOCAL_DIR)/raven/aospa_raven.mk \
@@ -77,7 +78,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_lmi-userdebug \
     aospa_lynx-userdebug \
     aospa_marble-userdebug \
-    aospa_mi439-userdebug \
+    aospa_mi439_419-userdebug \
     aospa_miatoll-userdebug \
     aospa_mini5g-userdebug \
     aospa_munch-userdebug \
@@ -93,6 +94,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_panther-userdebug \
     aospa_phoenix-userdebug \
     aospa_phone1-userdebug \
+    aospa_phone2-userdebug \
     aospa_porsche-userdebug \
     aospa_psyche-userdebug \
     aospa_raven-userdebug \
