@@ -18,21 +18,9 @@
         "revision":     "uvite"
     },
     {
-        "remote":       "github",
-        "repository":   "aospa-redfin/device_google_redbull-sepolicy",
-        "target_path":  "device/google/redbull-sepolicy",
-        "revision":     "uvite"
-    },
-    {
-        "remote":       "github",
-        "repository":   "aospa-redfin/device_google_redfin-sepolicy",
-        "target_path":  "device/google/redfin-sepolicy",
-        "revision":     "uvite"
-    },
-    {
         "remote":       "gitlab",
         "repository":   "aospa-redfin/vendor_google_redfin",
-        "target_path":  "vendor/google_devices",
+        "target_path":  "vendor/google/redfin",
         "revision":     "uvite"
     },
     {
